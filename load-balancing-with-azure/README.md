@@ -45,7 +45,7 @@ Once connected, you can use the following commands to manage your virtual machin
   cd /var/www/html
 - Create or edit the index.html file to display custom messages:
    ```bash
-  echo "You are viewing content from the movie VM" > index.html
+  echo "Movie Website" > index.html
    
 ## Usage
 Access the Application Gateway using the frontend IP address.
